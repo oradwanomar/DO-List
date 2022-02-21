@@ -34,8 +34,6 @@ UIView*vw;
 bool isGrandted;
 @implementation ViewController
 
-
-
 - (void)viewDidLoad {
     [super viewDidLoad];
     isGrandted=false;
