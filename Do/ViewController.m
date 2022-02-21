@@ -32,6 +32,7 @@ UILabel*tsknme;
 UILabel*datename;
 UIView*vw;
 bool isGrandted;
+
 @implementation ViewController
 
 - (void)viewDidLoad {
